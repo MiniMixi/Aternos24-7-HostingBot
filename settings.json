@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Toosie.aternos.me",
     "port": 36193,
-    "version": "26.1.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
